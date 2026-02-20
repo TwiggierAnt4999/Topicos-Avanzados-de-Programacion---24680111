@@ -1,0 +1,1 @@
+Para ejecutar, se debe crear un entorno virtual con Flet, una vez creado en una carpeta, el archivo chat debe estar en la subcarpeta src
