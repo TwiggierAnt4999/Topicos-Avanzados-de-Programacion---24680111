@@ -20,6 +20,9 @@ Compilación en APK
 El proyecto fue empaquetado y compilado en formato APK, lo que permite su ejecución en dispositivos Android.
 Esto demuestra la portabilidad de aplicaciones hechas en Python con Flet hacia entornos móviles, facilitando la distribución y uso práctico del software.
 
+APK File
+https://1drv.ms/u/c/95e4773c1c1d20fb/IQAPYyjdRy9IR4QIavijXxg4AegBM7flv3QTWikYwBjNoD8?e=BdgsTv
+
 Resultados
 - La aplicación funciona correctamente, mostrando la elección de la computadora y el resultado de la partida.
 - El diseño es sencillo, claro y atractivo gracias al tema oscuro y la retroalimentación visual.
